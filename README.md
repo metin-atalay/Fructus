@@ -5,7 +5,8 @@
 * How to develop an iOS 15 application with SwiftUI 3.0 framework 
 * How to create a data model and fetch data using Swift language 
 * Learn how to use the new Link View in SwiftUI 3.0
-* Learn how to use the new Goup Box View in SwiftUI 3.0 Learn how to use the new Disclosure View in SwiftUI 2.0 How to display views dynamically in a List View with a loop  
+* Learn how to use the new Goup Box View in SwiftUI 3.0 Learn how to use the new Disclosure View in SwiftUI 3.0 
+* How to display views dynamically in a List View with a loop  
 
 
 You can see some screens in the project.
